@@ -1,0 +1,15 @@
+C:\Users\yuriy\source\Points\refleksia\MainAppp\bin\Debug\MainAppp.exe.config
+C:\Users\yuriy\source\Points\refleksia\MainAppp\bin\Debug\MainAppp.exe
+C:\Users\yuriy\source\Points\refleksia\MainAppp\bin\Debug\MainAppp.pdb
+C:\Users\yuriy\source\Points\refleksia\MainAppp\bin\Debug\PluginInterface.dll
+C:\Users\yuriy\source\Points\refleksia\MainAppp\bin\Debug\PluginInterface.pdb
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.csproj.AssemblyReference.cache
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.MainApp.resources
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.PluginsInf.resources
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.Properties.Resources.resources
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.csproj.GenerateResource.cache
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.csproj.CopyComplete
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.exe
+C:\Users\yuriy\source\Points\refleksia\MainAppp\obj\Debug\MainAppp.pdb

@@ -1,0 +1,6 @@
+C:\Users\yuriy\source\Points\refleksia\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\yuriy\source\Points\refleksia\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\yuriy\source\Points\refleksia\PluginInterface\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+C:\Users\yuriy\source\Points\refleksia\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\Points\refleksia\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\yuriy\source\Points\refleksia\PluginInterface\obj\Debug\PluginInterface.pdb

@@ -1,0 +1,10 @@
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\bin\Debug\PluginInterface.dll
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\bin\Debug\PluginInterface.pdb
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\yuriy\source\Points\refleksia\ClassLibrary\bin\Debug\Windows.WinMD
