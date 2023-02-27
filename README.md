@@ -1,3 +1,3 @@
-# Serialization_2_lab_komponentnoe
+# refleksia_2_lab_komponentnoe
 
 Вроде работает
